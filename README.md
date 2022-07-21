@@ -1,8 +1,10 @@
 # deeplearning
 
-This github contains the data and data cleaning used in the deep learning project conducted in 2022. 
+This github contains information about the data relevant my deep learning project conducted in 2022. 
 
 
-The source of the dataset: https://opendatasus.saude.gov.br/dataset/srag-2021-e-2022 (download data for 2021)
+Source: https://opendatasus.saude.gov.br/dataset/srag-2021-e-2022 (download data for 2021)
 
-Data cleaning prepared by Andres Villegas can be found above: '01-ProcessDataBrasilHosp.R'
+Data cleaning (prepared by Andres Villegas): '01-ProcessDataBrasilHosp.R'
+
+Data to be uploaded to Python (compressed): 'CovidHospDataBrasil'
